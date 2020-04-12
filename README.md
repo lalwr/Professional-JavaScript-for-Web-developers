@@ -1,1 +1,1 @@
-# Professional-JavaScript-for-Web-developers
+# Professional JavaScript for Web developers. 3/E
